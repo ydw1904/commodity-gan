@@ -10,3 +10,4 @@ checkpoints/
 *.pt
 *.pth
 .venv/
+papers
